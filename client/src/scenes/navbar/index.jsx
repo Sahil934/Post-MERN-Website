@@ -56,7 +56,7 @@ const Navbar = () => {
             },
           }}
         >
-          Sociopedia
+          QuillVibe
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
